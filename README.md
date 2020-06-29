@@ -18,6 +18,26 @@ URL: http://rail.eecs.berkeley.edu/deeprlcourse-fa18/
 
 ![](./Images/2.png)
 
+
+
 ##MIT 6.S191 Introduction to Deep Learning
 
 URL: http://introtodeeplearning.com/
+
+
+
+## CS231n: Convolutional Neural Networks for Visual Recognition
+
+URL: http://cs231n.stanford.edu/
+
+
+
+## MIT 6.S094: Deep Learning for Self-Driving Cars
+
+URL: https://selfdrivingcars.mit.edu/
+
+
+
+## CSE 599W: Systems for ML
+
+URL: http://dlsys.cs.washington.edu/
