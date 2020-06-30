@@ -20,7 +20,7 @@ URL: http://rail.eecs.berkeley.edu/deeprlcourse-fa18/
 
 
 
-##MIT 6.S191 Introduction to Deep Learning
+## MIT 6.S191 Introduction to Deep Learning
 
 URL: http://introtodeeplearning.com/
 
