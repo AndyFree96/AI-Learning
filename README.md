@@ -1,6 +1,10 @@
 # AI-Learning
 AI Learning
 
+## Python Data Science Handbook
+
+URL: https://jakevdp.github.io/PythonDataScienceHandbook/
+
 ## Machine Learning (2020, Spring)
 
 URL: http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
@@ -26,8 +30,6 @@ URL: http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
 | [Life-long Learning](https://youtu.be/7qT5P9KJnWo) ([slide](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2019/Lecture/Lifelong Learning (v9).pdf)) |                                                              | [slide](https://docs.google.com/presentation/d/13JmcOZ9i_m5xJbRBKNMAKE1fIzGhyaeLck3frY0B2xY/edit?usp=sharing) [video](https://youtu.be/B2b2k_UihEc) | [Life-long](https://colab.research.google.com/drive/110YbEQbibXaFWPoDKEP3ZKPuyEzFap6U#scrollTo=LD5roJkIvoRj) |
 | [RL 1](https://youtu.be/W8XF3ME8G2I) [2](https://youtu.be/y8UPGr36ccI) [3](https://youtu.be/2-JNBzCq77c) ([slide](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/RL (v6).pdf)) [Advanced Version (8 videos, option)](https://www.youtube.com/watch?v=z95ZYgPgXOY&list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_) ([slide 1](http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2018/Lecture/PPO (v3).pdf) [2](http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2018/Lecture/QLearning (v2).pdf) [3](http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2018/Lecture/AC.pdf) [4](http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2018/Lecture/Reward (v3).pdf) [5](http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2018/Lecture/IRL (v2).pdf)) |                                                              | [slide](https://docs.google.com/presentation/d/1_KtX0PxZhzOqi1fJXdh2QW8GOFMcRu4NRn3uwo0FuDg/edit?usp=sharing) [video](https://youtu.be/NHvSxdrDtfw) | [RL](https://colab.research.google.com/drive/1Q5H0NI5b_NrT1ZUxEuFMd8ASTbow55Qj) |
 
-
-
 ## CS294-112 Deep Reinforcement Learning
 
 URL: http://rail.eecs.berkeley.edu/deeprlcourse-fa18/
@@ -36,7 +38,7 @@ URL: http://rail.eecs.berkeley.edu/deeprlcourse-fa18/
 
 
 
-##MIT 6.S191 Introduction to Deep Learning
+## MIT 6.S191 Introduction to Deep Learning
 
 URL: http://introtodeeplearning.com/
 
