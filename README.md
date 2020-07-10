@@ -1,19 +1,25 @@
 # AI-Learning
 AI Learning
 
+
+
 ## Python Data Science Handbook
 
 URL: https://jakevdp.github.io/PythonDataScienceHandbook/
+
+
 
 ## Machine Learning (2020, Spring)
 
 URL: http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
 
-| #                                                            | Notes                                                        | 作业说明                                                     | 作业示例                                                     |
+
+
+| 标题                                                         | Notes                                                        | 作业说明                                                     | 作业示例                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Introduction](https://youtu.be/c9TwBeWAj_U) ([slide](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML2020/introduction.pdf)) | [1.引言](MachineLearning/1.引言.md) [2.学习导图](MachineLearning/2.学习导图.md) |                                                              |                                                              |
 | [Regression](https://youtu.be/fegAeph9UaA) ([slide](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML2020/introduction.pdf)), [Basic Concept](https://youtu.be/D_S6y0Jm6dQ) ([slide](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Bias%20and%20Variance%20(v2).pdf)) | [3.回归](MachineLearning/3.回归.md) [4.误差](MachineLearning/4.误差.md) | [slide](https://docs.google.com/presentation/d/18MG1wSTTx8AentGnMfIRUp8ipo8bLpgAj16bJoqW-b0/edit#slide=id.g4cd6560e29_0_10) [video](https://youtu.be/QfU-qXINCvs) | [Regression](https://colab.research.google.com/drive/131sSqmrmWXfjFZ3jWSELl8cm0Ox5ah3C) [hw1](https://github.com/AndyFree96/AI-Learning/blob/master/MachineLearning/HWs/hw1/hw1.ipynb) |
-| [Gradient Descent 1](https://youtu.be/fZAZUYEeIMg) [2](https://youtu.be/1_HBTJyWgNA) [3](https://youtu.be/wzPAInDF_gI) ([slide](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Gradient%20Descent%20(v2).pdf)) [More about Gradient Descent 1](https://youtu.be/4pUmZ8hXlHM) [2](https://youtu.be/e03YKGHXnL8) ([slide](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML2020/Optimization.pdf)) |                                                              |                                                              |                                                              |
+| [Gradient Descent 1](https://youtu.be/fZAZUYEeIMg) [2](https://youtu.be/1_HBTJyWgNA) [3](https://youtu.be/wzPAInDF_gI) ([slide](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Gradient%20Descent%20(v2).pdf)) [More about Gradient Descent 1](https://youtu.be/4pUmZ8hXlHM) [2](https://youtu.be/e03YKGHXnL8) ([slide](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML2020/Optimization.pdf)) | [5.梯度下降]([https://github.com/AndyFree96/AI-Learning/blob/master/MachineLearning/5.%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D.ipynb](https://github.com/AndyFree96/AI-Learning/blob/master/MachineLearning/5.梯度下降.ipynb)) |                                                              |                                                              |
 | [Classification 1](https://youtu.be/fZAZUYEeIMg) [2](https://youtu.be/hSXFuypLukA) ([slide 1](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Classification%20\(v3\).pdf) [2](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/Logistic%20Regression%20\(v3\).pdf)) |                                                              | [slide](https://docs.google.com/presentation/d/1dQVeHfIfUUWxMSg58frKBBeg2OD4N7SD0YP3LYMM7AA/edit?usp=sharing) [video](https://youtu.be/0_dbrUYoVow) | [Classification](https://colab.research.google.com/drive/1JaMKJU7hvnDoUfZjvUKzm9u-JLeX6B2C) |
 | [DL](https://youtu.be/Dr-WRlEFefw) ([slide](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/DL%20\(v2\).pdf)) [Backprop](https://youtu.be/ibJpTrp5mcE) ([slide](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/BP.pdf)) [Tips](https://youtu.be/xki61j7z-30) ([slide](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/DNN%20tip.pdf)) [Why Deep](https://youtu.be/XsC9byQkUH8) ([slide](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/Why.pdf)) |                                                              |                                                              |                                                              |
 | [CNN](https://youtu.be/FrKWiRv254g) ([slide](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/CNN.pdf)) |                                                              | [slide](https://docs.google.com/presentation/d/1_6TJrFs3JGBsJpdRGLK1Fy_EiJlNvLm_lTZ9sjLsaKE/edit?usp=sharing) [video](https://youtu.be/L_ebtE4qk14) | [CNN](https://colab.research.google.com/drive/16a3G7Hh8Pv1X1PhZAUBEnZEkXThzDeHJ) |
@@ -29,6 +35,14 @@ URL: http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
 | [Meta Learning - MAML](https://youtu.be/EkAqYbpCYAc) ([slide](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2019/Lecture/Meta1%20(v6).pdf)), [Meta Learning - Gradient Descent and Metric-based (option)](https://youtu.be/NjZygLDXxjg) ([slide](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2019/Lecture/Meta2%20(v4).pdf)) |                                                              | [slide](https://docs.google.com/presentation/d/1nqZBCsDWbq-a892py5LoqESNkUCRMFvIc_q2iaAxD_w/edit?usp=sharing) [video 1](https://youtu.be/JtUMoR4CQEI) [2](https://youtu.be/CzkuNX5Ijdk) [3](https://youtu.be/kqu3S7M_esE) | [Meta 1](https://colab.research.google.com/drive/1MFJwRdOTefd6UOYRsNjdc7BWuB7Qe3lY) [2](https://colab.research.google.com/drive/1OcF5TQCCd7WNK0cbXyzYxAzWpMKW_r8B) |
 | [Life-long Learning](https://youtu.be/7qT5P9KJnWo) ([slide](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2019/Lecture/Lifelong%20Learning%20(v9).pdf)) |                                                              | [slide](https://docs.google.com/presentation/d/13JmcOZ9i_m5xJbRBKNMAKE1fIzGhyaeLck3frY0B2xY/edit?usp=sharing) [video](https://youtu.be/B2b2k_UihEc) | [Life-long](https://colab.research.google.com/drive/110YbEQbibXaFWPoDKEP3ZKPuyEzFap6U#scrollTo=LD5roJkIvoRj) |
 | [RL 1](https://youtu.be/W8XF3ME8G2I) [2](https://youtu.be/y8UPGr36ccI) [3](https://youtu.be/2-JNBzCq77c) ([slide](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2016/Lecture/RL%20(v6).pdf)) [Advanced Version (8 videos, option)](https://www.youtube.com/watch?v=z95ZYgPgXOY&list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_) ([slide 1](http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2018/Lecture/PPO%20(v3).pdf) [2](http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2018/Lecture/QLearning%20(v2).pdf) [3](http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2018/Lecture/AC.pdf) [4](http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2018/Lecture/Reward%20(v3).pdf) [5](http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2018/Lecture/IRL%20(v2).pdf)) |                                                              | [slide](https://docs.google.com/presentation/d/1_KtX0PxZhzOqi1fJXdh2QW8GOFMcRu4NRn3uwo0FuDg/edit?usp=sharing) [video](https://youtu.be/NHvSxdrDtfw) | [RL](https://colab.research.google.com/drive/1Q5H0NI5b_NrT1ZUxEuFMd8ASTbow55Qj) |
+
+
+
+## Applied Deep Learning
+
+URL: https://www.csie.ntu.edu.tw/~miulab/s107-adl/syllabus.html
+
+
 
 ## CS294-112 Deep Reinforcement Learning
 
