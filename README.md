@@ -73,3 +73,7 @@ URL: https://selfdrivingcars.mit.edu/
 ## CSE 599W: Systems for ML
 
 URL: http://dlsys.cs.washington.edu/
+
+## Blogs
+
+[Sebastian Ruder](https://ruder.io/): I'm a research scientist in the Language team at DeepMind. I blog about machine learning, deep learning, and natural language processing.
