@@ -74,6 +74,10 @@ URL: https://selfdrivingcars.mit.edu/
 
 URL: http://dlsys.cs.washington.edu/
 
+## CS224n: Natural Language Processing with Deep Learning
+
+URL: http://web.stanford.edu/class/cs224n/
+
 ## Blogs
 
 [Sebastian Ruder](https://ruder.io/): I'm a research scientist in the Language team at DeepMind. I blog about machine learning, deep learning, and natural language processing.
