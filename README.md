@@ -81,3 +81,13 @@ URL: http://web.stanford.edu/class/cs224n/
 ## Blogs
 
 [Sebastian Ruder](https://ruder.io/): I'm a research scientist in the Language team at DeepMind. I blog about machine learning, deep learning, and natural language processing.
+
+## Projects
+
+|#|Title|Language|URL|Dataset|Platform|
+--|--|--|--|--|--
+1|[How to get "High" Rating on Play Store](https://www.kaggle.com/tanetboss/how-to-get-high-rating-on-play-store)|Python|[how-to-get-high-rating-on-play-store.ipynb](./how-to-get-high-rating-on-play-store.ipynb)|[Google Play Store Apps](https://www.kaggle.com/lava18/google-play-store-apps)|Kaggle
+2|[All that you need to know about the Android market](https://www.kaggle.com/lava18/all-that-you-need-to-know-about-the-android-market)|Python|[all-that-you-need-to-know-about-the-android-market.ipynb](./all-that-you-need-to-know-about-the-android-market.ipynb)|[Google Play Store Apps](https://www.kaggle.com/lava18/google-play-store-apps)|Kaggle
+3|[What Causes Heart Disease? Explaining the Model](https://www.kaggle.com/tentotheminus9/what-causes-heart-disease-explaining-the-model)|Python|[what-causes-heart-disease-explaining-the-model.ipynb](./what-causes-heart-disease-explaining-the-model.ipynb)|[Heart Disease UCI](https://www.kaggle.com/ronitf/heart-disease-uci)|Kaggle
+4|[Film recommendation engine](https://www.kaggle.com/fabiendaniel/film-recommendation-engine)|Python|[film-recommendation-engine.ipynb](./film-recommendation-engine.ipynb)|[TMDB 5000 Movie Dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata)|Kaggle
+5|[Predicting the Survival of Titanic Passengers](https://towardsdatascience.com/predicting-the-survival-of-titanic-passengers-30870ccc7e8)|Python|[Predicting-the-Survival-of-Titanic-Passengers.ipynb](./Predicting-the-Survival-of-Titanic-Passengers.ipynb)|[Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/data)|Medium
